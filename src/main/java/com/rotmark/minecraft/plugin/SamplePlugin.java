@@ -3,7 +3,7 @@ package com.rotmark.minecraft.plugin;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**
- * This is a sample plugin that has four functions:
+ * This is a sample plugin that that contains four mods:
  * 
  * <ul>
  * <li>Adds the /ignite command, which sets the target player on fire.</li>
