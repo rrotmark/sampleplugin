@@ -1,0 +1,22 @@
+name: SamplePlugin
+main: com.rotmark.minecraft.plugin.SamplePluginTest
+version: 0.1-SNAPSHOT
+
+commands:
+  ignite:
+    description: This sets the player on fire.
+    usage: /ignite [player]
+    permission: SamplePlugin.ignite
+    permission-message: You don't have <permission>
+      
+  extinguish:
+    description: This extinguishes the player if they are on fire.
+    usage: /extinguish [player]
+    permission: SamplePlugin.extinguish
+    permission-message: You don't have <permission>
+    
+  heal:
+    description: This fully heals the player.
+    usage: /heal [player]
+    permission: SamplePlugin.heal
+    permission-message: You don't have <permission>
