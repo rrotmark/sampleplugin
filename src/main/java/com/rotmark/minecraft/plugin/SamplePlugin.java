@@ -7,7 +7,7 @@ import org.bukkit.plugin.java.JavaPlugin;
  * 
  * <ul>
  * <li>Adds the /ignite command, which sets the target player on fire.</li>
- * <li>Adds the /extinguish command, which extingishes a burning player.</li>
+ * <li>Adds the /extinguish command, which extinguishes a burning player.</li>
  * <li>Adds the /heal command, which heals the target player to full heath.</li>
  * <li>An event listener that generates a diamond block below the feet of the player whenever he or
  * she jumps.</li>
