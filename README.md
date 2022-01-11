@@ -21,3 +21,5 @@ This plugin was based on the following tutorials, which are both very good:
 
 http://wiki.bukkit.org/Plugin_Tutorial
 http://wiki.bukkit.org/Introduction_to_the_New_Event_System
+
+test
